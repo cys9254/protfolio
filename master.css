@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.box{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.wrap{
+    width: 862px;
+    height: 358px;
+    border: 0px solid blue;
+    position: absolute;
+    right: 200px;
+    top: 550px;
+
+}
+
+.wrap img{
+
+}
+
+.box1{background-image: url("img/bg1.png");}
+.intro{bottom: 345px; right: 1000px}
